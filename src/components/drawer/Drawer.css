@@ -1,0 +1,21 @@
+.drawer__row{
+    display:flex;
+    align-items: center;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.drawer__row:hover{
+    background-color: lightgray;
+    border-radius: 10px;
+}
+
+.drawer__row>h4{
+    margin-left: 20px;
+    /* font-weight: 600; */
+}
+
+.drawer__row>.MuiSvgIcon-root{
+    font-size: x-large;
+    color: #2181f4;
+}

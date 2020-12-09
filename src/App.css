@@ -1,0 +1,9 @@
+.app {
+    background-color: #f1f2f5;
+    min-width: 100%;
+    width: fit-content;
+    height: fit-content;
+    min-height: 100vh;
+    overflow-y: none;
+
+}

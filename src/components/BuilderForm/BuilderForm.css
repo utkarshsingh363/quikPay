@@ -1,0 +1,52 @@
+.builder__form{
+    padding: 20px 15px;
+}
+
+.builder__form__top{
+    margin-bottom: 25px;
+}
+
+.builder__form-category{
+    display: flex;
+}
+
+.add__form-category{
+    margin: 10px 50px;
+}
+
+.new__form-category{
+    display: flex;
+    justify-content: space-between;
+}
+
+.builder__form__middle{
+
+}
+
+.active__form__template{
+    margin: 20px 0px;
+}
+
+.builder__form__middle>h3{
+    border-bottom: 1px solid black;
+}
+
+.date__requirement{
+    border-top: 1px solid black;
+    margin-top:20px;
+}
+
+.builder__form__bottom{
+    margin: 10px 50px;
+}
+
+.submit__form{
+    display: flex;
+    /* width: 100%; */
+    justify-content: center;
+}
+
+.field__selection__div{
+    display: flex;
+    justify-content: space-evenly;
+}

@@ -1,0 +1,37 @@
+.form__viewer{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 25px;
+    width: 1100px;
+    
+}
+
+.form__viewer__top{
+    background-color: #0072bc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form__viewer__top>p{
+    color:white ;
+    padding: 10px;
+    font-size: large;
+}
+
+.form__viewer__bottom{
+    /* padding: 10px; */
+    padding: 2px;
+    margin-left: 50px;
+}
+
+.form__viewer__bottom__enclose{
+    width:60%
+}
+
+.form__viewer__form__button{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 20px
+}

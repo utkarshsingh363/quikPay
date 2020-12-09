@@ -1,0 +1,50 @@
+.merchant__paylink__view{
+    display: flex;
+    flex-direction: column;
+}
+
+.merchant__paylink__view__top{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.merchant__paylinks{
+    margin:20px 0px;
+}
+
+.merchant__paylinks__row{
+    display: grid;
+    grid-template-columns: auto auto  ;
+    grid-gap: 20px;
+    /* background-color:white; */
+    background-color:lightblue;
+    padding: 10px;
+
+}
+
+.merchant__paylinks__row__item{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    background-color: white;
+}
+
+.view__button{
+    margin:0px 5px
+}
+
+.icon__text{
+    margin:0px 5px
+}
+
+.merchant__paylinks__top{
+    background-color: #0072bc;
+    display: flex;
+    color: white;
+    padding: 10px;
+    justify-content: center;
+    font-size: large;
+}

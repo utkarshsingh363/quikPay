@@ -1,0 +1,52 @@
+.layout{
+    width: fit-content;
+    min-width: 100%;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    position: sticky;
+    background-color: white;
+    z-index: 100;
+    top:0;
+    box-shadow: 0px 5px 8px -9px rgba(0, 0, 0, .75);
+}
+
+.header__left{
+    display: flex;
+    margin: 10px 20px;
+    align-items: center;
+}
+
+.header__left>img{
+    width: 120px;
+    height: 60px;
+    margin-right: 20px;
+}
+
+.header__right{
+    margin: 10px 20px;
+}
+
+
+.body{
+    display: flex;
+    height: fit-content;
+    overflow: hidden; /* Hide scrollbars */
+}
+
+.drawer{
+    padding: 25px 10px;
+    flex: .15;
+}
+
+.main__body{
+    padding: 25px 20px;
+    flex: .85;
+}
+
+
+

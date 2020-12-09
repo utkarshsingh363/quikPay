@@ -1,0 +1,20 @@
+.form__control__radio {
+    display: flex;
+    align-items: center;
+    margin: 10px 50px;
+    justify-content:space-around;
+}
+  
+.form__control__radio > label {
+    width: fit-content;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form__control__radio > p{
+    margin-right: 10px;
+}
+
+.radio__options{
+    display: flex;
+}

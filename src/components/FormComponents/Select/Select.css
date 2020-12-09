@@ -1,0 +1,12 @@
+.form__control > select {
+    display: block;
+    width: 300px;
+    padding: 6px 12px;
+    font-size: 14px;
+    columns: #555555;
+    line-height: 1.428571;
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    background-image: none;
+    border-radius: 4px;
+  }

@@ -1,0 +1,17 @@
+.form__builder{
+    display: flex;
+    flex-direction: column;
+    width: fit-content
+}
+
+.form__builder__header{
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+}
+
+.form__builder__form{
+    width: fit-content;
+    /* flex:2; */
+    height: fit-content;
+    /* height: 91vh; */
+}   

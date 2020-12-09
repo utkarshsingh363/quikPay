@@ -1,0 +1,16 @@
+.paylink__view{
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+}
+
+.paylink__view__form{
+    width: fit-content;
+    height: fit-content;
+}
+
+.paylink__view__top{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+}

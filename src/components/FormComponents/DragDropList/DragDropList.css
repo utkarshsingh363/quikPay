@@ -1,0 +1,9 @@
+.form__control_dragNdrop{
+    display: flex;
+    flex-direction: column;
+}
+
+.form__control_dragNdrop>label{
+    font-weight: bold;
+    margin-bottom: 10px;
+}

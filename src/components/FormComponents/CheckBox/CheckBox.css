@@ -1,0 +1,15 @@
+.form__control__checkbox {
+    display: flex;
+    align-items: center;
+    margin: 20px 0px;
+}
+  
+.form__control__checkbox > label {
+    width: 100px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form__control__checkbox > p{
+    margin-right: 10px;
+}

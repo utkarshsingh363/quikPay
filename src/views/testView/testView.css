@@ -1,0 +1,35 @@
+.form__builder{
+    display: flex;
+    flex-direction: column;
+    /* width: fit-content */
+}
+
+.form__builder__header{
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+}
+
+.form__builder__form{
+    /* width: 80%; */
+    height: fit-content;
+} 
+
+.form__div{
+    display: flex;
+    flex-direction: column;
+}
+
+.form__div__top{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+}
+
+.form__div__head{
+    background-color: #0072bc;
+    display: flex;
+    color: white;
+    padding: 10px;
+    justify-content: center;
+    font-size: large;
+}
